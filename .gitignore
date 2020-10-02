@@ -1,3 +1,5 @@
 venv
 data
 _coursera
+.idea
+__pycache__
